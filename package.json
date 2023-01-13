@@ -1,0 +1,11 @@
+{
+  "name": "gerador_senha",
+  "version": "1.0.0",
+  "description": "Gerador de senhas aleatorias com Maiusculas, Minusculas, Numeros e Simbolos com limite de caracteres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikeias Silva",
+  "license": "ISC"
+}
